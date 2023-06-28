@@ -1,0 +1,5 @@
+springFrameworkDiscovery\services\HelloWorldMessageProvider.class
+springFrameworkDiscovery\services\MessageRenderer.class
+springFrameworkDiscovery\springFrameworkDiscovery.class
+springFrameworkDiscovery\services\MessageProvider.class
+springFrameworkDiscovery\services\StandardOutMessageRenderer.class
